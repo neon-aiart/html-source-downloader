@@ -15,8 +15,14 @@ JavaScriptで直接HTMLソースを取得するのが難しいGmailなどのペ�
 **[✨ GreasyForkでインストールする ✨](https://greasyfork.org/ja/scripts/545876)**
 
 1.  **Tampermonkey** または **Violentmonkey** の拡張機能がインストールされているか確認してください。
-2.  GreasyForkのページで**「インストール」**ボタンを押してください。
+2.  GreasyForkのページで「インストール」ボタンを押してください。
 
+* **Tampermonkey**: 
+    * [Chrome ウェブストア](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+    * [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/tampermonkey/)
+* **Violentmonkey**: 
+    * [Chrome ウェブストア](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
+    * [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/violentmonkey/)
 ---
 
 ## 🎀 機能紹介
